@@ -36,7 +36,6 @@ We need to generate a **summary of unemployment rates** per country, but some en
 | Northern Africa and Western Asia  |	                     17.84 |
 | Oceania                           |	                      4.98 |
 | Sub-Saharan Africa                |	                     33.65 |
-----------------------------------------------------------------
 
 ---
 ## 🔍 SQL Solution
@@ -123,10 +122,10 @@ WHERE
 - Handling Missing Data in SQL
 
 ---
-## **✍️ Author**  
+## ✍️ Author  
 **ExploreAI Academy**  
 *Data Science Education Provider*  
 
-## **🔄 Adopted By**  
+## 🔄 Adopted By  
 *Ibrahim Ambale*  
 *ALX Data Science Student*  
