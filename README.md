@@ -117,7 +117,7 @@ WHERE
 
 ---
 📚 Resources
-- [MySQL UNION Documentation][https://dev.mysql.com/doc/refman/8.0/en/union.html]
+- [MySQL UNION Documentation](https://dev.mysql.com/doc/refman/8.0/en/union.html)
 
 - Handling Missing Data in SQL
 
