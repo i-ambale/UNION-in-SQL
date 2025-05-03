@@ -29,7 +29,7 @@ We need to generate a **summary of unemployment rates** per country, but some en
 **Table 1: Regional Unemployment Rates**
 
 | Region                            |	Pct_regional_unemployment
-|---------------------------------------------------------------:|
+|-----------------------------------|---------------------------:|
 | Central and Southern Asia         |	                     19.59 |
 | Eastern and South-Eastern Asia    |	                     22.64 |
 | Europe and Northern America       |	                     24.43 |
