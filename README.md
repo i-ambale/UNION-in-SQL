@@ -14,8 +14,11 @@ This notebook requires a **local MySQL connection** and will **not** run on Goog
 ---
 ## 🎯 Learning Objectives
 By the end of this training, you will:
+
 ✅ Understand the **UNION operator** and its role in combining query results.
+
 ✅ Apply **UNION** to merge data from different tables with similar structures.
+
 ✅ Enhance data completeness by **replacing missing values** with regional estimates.
 
 ---
