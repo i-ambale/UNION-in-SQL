@@ -38,6 +38,7 @@ We need to generate a **summary of unemployment rates** per country, but some en
 | Oceania                           |	                      4.98 |
 | Sub-Saharan Africa                |	                     33.65 |
 
+
 ---
 ## 🔍 SQL Solution
 **Step 1: Fetch Country-Specific Data**
